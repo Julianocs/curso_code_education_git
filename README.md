@@ -139,12 +139,4 @@ Comandos GIT
 *Removendo tag no repositório remoto*
 >git push origin :refs/tags/0.1.0
 
-**Criando um repositório local**
-
-*Crie uma pasta e entre nela*
->git init --bare
-
-*Saia da pasta*
->git checkout master 
->git push local
 
