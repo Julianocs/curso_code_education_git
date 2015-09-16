@@ -5,10 +5,10 @@ Comandos GIT
 
 
 **O git possui 4 áreas de trabalho:**
-1. O diretório .git que é o repositório contendo todos os arquivos versionados;
-2. Working Area que é um snapshot do .git dentro de um determinado momento no tempo;
-3. Stage que é um local temporário que armazena a referência para arquivos a serem versionados antes de serem commitados;
-4. Stash que também é um local temporário que pode armazenar e esconder arquivos que estão no Stage.
+*1. O diretório .git que é o repositório contendo todos os arquivos versionados;*
+*2. Working Area que é um snapshot do .git dentro de um determinado momento no tempo;*
+*3. Stage que é um local temporário que armazena a referência para arquivos a serem versionados antes de serem commitados;*
+*4. Stash que também é um local temporário que pode armazenar e esconder arquivos que estão no Stage.*
 
 **Criando um repositório local**
 >cd meuprojeto
